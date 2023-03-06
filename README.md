@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiyomi</h1>
 
-- 🔭 I’m currently working on [Password generator app](https://github.com/KiyomiDev/password-generator-app)
+- 🔭 I’m currently working on [Walleter](https://github.com/KiyomiDev/walleter)
 
 - 🌱 I’m currently learning **JavaScript**
 
